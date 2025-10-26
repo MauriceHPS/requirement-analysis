@@ -46,6 +46,7 @@
 
   ## Use Case Diagrams.
   Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+  ![image alt](https://github.com/MauriceHPS/requirement-analysis/blob/main/alx-booking-uc.png?raw=true)
   
   
 
