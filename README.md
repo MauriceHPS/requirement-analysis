@@ -38,9 +38,9 @@
 
 ## Types of requirements
   ### Functional requirements
-    Describe what the system should do.
-    Example: Search and Booking a hotel.
+  Describe what the system should do.
+  Example: Search and Booking a hotel.
   ### Non-functional requirements
-    Describe how the system should perform.
-    Example: Load balancing.
+  Describe how the system should perform.
+  Example: Load balancing.
 
