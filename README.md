@@ -36,7 +36,7 @@
   * Acceptance Criteria: Defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
   * Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
-## Types of requirements.
+##  Types of Requirements
   ### Functional requirements
   Describe what the system should do.
   Example: Search and Booking a hotel.
