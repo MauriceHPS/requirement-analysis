@@ -45,8 +45,20 @@
   Example: Load balancing.
 
   ## Use Case Diagrams.
+  
   Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+  
   ![image alt](https://github.com/MauriceHPS/requirement-analysis/blob/main/alx-booking-uc.png?raw=true)
+
+  ## Acceptance Criteria
+  Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+  ### Benefits of Acceptance Criteria:
+  * Ensure all parties have a clear understanding of feature requirements.
+  * Provide a basis for testing and validation.
+  * Help in maintaining quality and meeting user expectations.
+  #### Example
+User must be able to review selected room details and total cost, enter valid payment information, and successfully complete the transaction. System must confirm payment, generate a booking reference, send email confirmation, and display a success message. Invalid payment should show an error and prevent checkout.
+
   
   
 
